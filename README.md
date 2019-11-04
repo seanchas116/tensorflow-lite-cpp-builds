@@ -7,5 +7,5 @@
   - [x] Mac
   - [ ] Windows MSVC
   - [x] Windows MinGW 64bit
-  - [ ] iOS
+  - [x] iOS
   - [ ] Android
